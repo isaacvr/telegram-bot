@@ -1,0 +1,4 @@
+docs/
+Pipfile
+Pipfile.lock
+settings.json
